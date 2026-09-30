@@ -1,0 +1,8 @@
+{
+  "mode": "local",
+  "episodes": 2000,
+  "grid_size": 2,
+  "seed": 42,
+  "training_time_seconds": 14.3,
+  "final_avg_queue_last_100": 15.003
+}

@@ -1,0 +1,8 @@
+{
+  "mode": "coordonne",
+  "episodes": 2000,
+  "grid_size": 2,
+  "seed": 42,
+  "training_time_seconds": 16.6,
+  "final_avg_queue_last_100": 17.253
+}

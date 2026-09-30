@@ -1,0 +1,5 @@
+controller,avg_queue_mean,avg_queue_std,throughput_mean,throughput_std,max_queue_mean
+Feux fixes,43.51,1.41,1021.2,23.4,23.63
+File la plus longue,21.36,0.44,1059.2,24.9,10.87
+Q-Learning local,18.54,0.36,1063.8,25.7,11.53
+Q-Learning coordonne,18.88,1.55,1063.4,24.6,13.27
